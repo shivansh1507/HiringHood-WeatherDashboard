@@ -1,6 +1,7 @@
 # Weather Dashboard
 
 Welcome to the Weather Dashboard project! This React-based application provides real-time weather information and allows users to share their weather-related stories.
+[LIVE DEMO](https://weatherdashboardhiringhood.netlify.app/)
 ![ScreenShot](https://raw.githubusercontent.com/shivansh1507/HiringHood-WeatherDashboard/main/HiringHoodWeatherDashboard.png)
 ## Features
 
